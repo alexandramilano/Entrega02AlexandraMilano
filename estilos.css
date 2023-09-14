@@ -1,0 +1,158 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: space-between;
+    background-color: #9de99d;
+    height: 120px;
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 450px;
+    font-size: 20px;
+    padding: 30px;
+    border-style: 0px 0px 5px;
+    border-bottom: 1px solid #fff;
+}
+
+.email{
+    display: flex;
+    justify-content: space-between;
+    width: 15%;
+}
+
+.iconEmail{
+    margin-top: 8px;
+    margin-right: 8px;
+}
+
+header{
+    background-color: #9de99d;
+    height: 120px;
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    font-size: 22px;
+    padding: 30px;
+}
+
+.logo_img{
+    width: 80px;
+}
+
+.navbar{
+    background-color: #9de99d;
+    display: flex;
+    justify-content: right;
+   
+}
+
+.size-item{
+    width: 178px;
+}
+
+
+.ing{
+    color: white;
+    padding: 30px;
+    float: right;
+    margin: 10px;
+}
+
+.ing a{
+    background-color: #9de99d;
+    color: black;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+}
+
+.ing a:hover{
+    background-color: rgb(120, 178, 32);
+}
+
+h2{
+    margin: 150px;
+    background-color: #9de99d;
+    color: black;
+    text-align: left;
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+    padding: 20px;
+}
+
+section{
+    background-color: white;
+    height: 100%;
+    width: 100%;
+}
+
+footer{
+    background-color: #9de99d;
+    color: white;
+    text-align: right;
+    font-size: 24px;
+    padding: 20px;
+    font-family: roboto;
+}
+
+footer p{
+    margin-bottom: 20px;
+}
+
+.bg-primary-subtle {
+    background-color: #c5dfc5!important;
+}
+
+.title{
+    display: flex;
+    margin-right: 600px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:black;
+}
+
+.title1{
+    display: flex;
+    justify-content: right;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 20px;
+}
+
+.arreg{
+    display: flex;
+    justify-content: right;
+}
+
+.arrangement_02{
+    display: flex;
+    justify-content: left;
+}
+
+.arreg_01{
+    display: flex;
+    justify-content: right;
+}
+
+.btn-success {
+    display: flex;
+    justify-content: space-between;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.form-control{
+    margin-bottom: 10px;
+}
+
+
+
+
+
+
+
